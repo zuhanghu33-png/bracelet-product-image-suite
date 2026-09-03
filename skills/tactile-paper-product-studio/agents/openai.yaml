@@ -1,0 +1,8 @@
+interface:
+  display_name: "暖纸布景产品摄影"
+  short_description: "根据白底产品主色自动搭配暖纸与低饱和布料并生成品牌产品图"
+  brand_color: "#7A4433"
+  default_prompt: "使用 $tactile-paper-product-studio 将这张白底产品图制作成按产品配色匹配的暖纸布景品牌图，并保持产品细节不变。"
+
+policy:
+  allow_implicit_invocation: true

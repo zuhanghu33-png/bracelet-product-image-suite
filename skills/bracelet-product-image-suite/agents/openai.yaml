@@ -1,0 +1,8 @@
+interface:
+  display_name: "手链产品四图工作流"
+  short_description: "上传一张白底手链图，连续生成三张暖纸产品图与一张材质档案板封面"
+  brand_color: "#7A4433"
+  default_prompt: "使用 $bracelet-product-image-suite，将我上传的手链白底图生成一张暖纸完整图、两张暖纸细节图和一张材质档案板封面。"
+
+policy:
+  allow_implicit_invocation: true

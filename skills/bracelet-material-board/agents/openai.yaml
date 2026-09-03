@@ -1,0 +1,5 @@
+interface:
+  display_name: "Bracelet Material Board"
+  short_description: "Turn bracelet photos into tactile bead material boards."
+  default_prompt: "Use $bracelet-material-board to turn my uploaded bracelet product photo into a tactile bead-material archive board."
+
